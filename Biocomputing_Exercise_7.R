@@ -26,7 +26,7 @@ setosa <- subset(iris, iris$Species=='setosa')
 versicolor <- subset(iris, iris$Species=='versicolor')
 ##environment window shows there are 50 observations with Versicolor as the species
 virginica <- subset(iris, iris$Species=='virginica')
-##environment window shows there are 50 observations with Versicolor as the species
+##environment window shows there are 50 observations with Virginica as the species
 
 #print rows with Sepal.Width > 3.5
 width <- subset(iris, iris$Sepal.Width>3.5)
